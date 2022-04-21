@@ -14,8 +14,8 @@ const Footer = () => {
                             <a className="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i className="fab fa-linkedin-in"></i></a>
                         </div>
                         <div className="col-lg-4 text-lg-end">
-                            <a className="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-                            <a className="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                            <a className="link-dark text-decoration-none me-3" href="#!"><strong>Keep Shopping</strong></a>
+                            <a className="link-dark text-decoration-none" href="#!"><strong>Keep Support VinAsh!!!</strong></a>
                         </div>
                     </div>
                 </div>
